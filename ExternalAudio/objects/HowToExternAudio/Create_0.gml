@@ -1,6 +1,6 @@
 /// @desc Loading .wav files
-var time = current_time;
-externalAudio = ext_audio_load("BeemBoomBaaBoom-normalized.wav");
-show_message(string((current_time - time)) + " ms");
+
+//drag a wave file into "Included Files" and replace text with filename including extension
+externalAudio = ext_audio_load("filenamehere.wav");
 externalSoundID = ext_audio_get_id(externalAudio);
 externalSoundInstance = audio_play_sound(externalSoundID,10,true);

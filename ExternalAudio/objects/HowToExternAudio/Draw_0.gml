@@ -1,4 +1,4 @@
-/// @desc - Simple GUI
+/// @desc Simple GUI
 var str = "Playing: ";
 if (audio_is_playing(externalSoundInstance)) {
 	

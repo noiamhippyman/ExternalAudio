@@ -151,14 +151,6 @@
             }
         },
         {
-            "Key": "60601e76-7726-4cf8-82a0-11eff2394839",
-            "Value": {
-                "id": "5e1fbc6d-e68f-406a-b20b-01151847739b",
-                "resourcePath": "scripts\\__ext_audio_import_wave_backup\\__ext_audio_import_wave_backup.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "660bd46f-4339-4e8d-b7c6-1019cd454d28",
             "Value": {
                 "id": "fe778361-bc25-4c80-922e-f72903734982",
@@ -314,7 +306,6 @@
     "script_order": [
         "2f90ab3b-d1d4-4ee1-8161-da95ac6a513f",
         "029ddb49-70f4-46c8-b389-2ef592ee96a8",
-        "60601e76-7726-4cf8-82a0-11eff2394839",
         "163543e7-4a39-4275-a7aa-940565ed5da0",
         "f4f6b750-fc3c-4346-b2b0-5e5a68375aa4",
         "01548b52-c1b2-476c-b8e7-ae116910f608",
