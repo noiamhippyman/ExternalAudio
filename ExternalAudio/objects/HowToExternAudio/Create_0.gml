@@ -1,4 +1,6 @@
 /// @desc Loading .wav files
-externalAudio = ext_audio_load("beat.wav");
+var time = current_time;
+externalAudio = ext_audio_load("BeemBoomBaaBoom-normalized.wav");
+show_message(string((current_time - time)) + " ms");
 externalSoundID = ext_audio_get_id(externalAudio);
-externalSoundInstance = noone;
+externalSoundInstance = audio_play_sound(externalSoundID,10,true);
