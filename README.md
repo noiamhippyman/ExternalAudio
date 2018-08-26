@@ -10,14 +10,7 @@ This is a pure GML extension that enables loading external audio during runtime.
 
 Check out the internal scripts if you want to see how everything else is done in more depth.
 
-## Planned/Supported Formats
-- [x] WAVE		
-- [ ] OGG Vorbis
-
-## Won't/Can't Support
-- MP3 - OGG is the better open-source option anyways. MP3 is ancient. Get over it.
-
-Feel free to request any other formats.
+## Only Supports WAV
 
 
 ## Example
